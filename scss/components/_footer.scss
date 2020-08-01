@@ -17,13 +17,13 @@ footer {
 .address {
   display: flex;
   flex-direction: column;
-  &-title {
-    margin-bottom: 9px;
-    color: $title-white-color;
-    font-style: normal;
-    font-size: 14px;
-    line-height: 1.71;
-  }
+}
+.adress-title {
+  margin-bottom: 9px;
+  color: $title-white-color;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.71;
 }
 .contact {
   display: block;
